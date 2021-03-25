@@ -39,13 +39,67 @@
         android:textStyle="bold"  />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnDatePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Select Date"
         android:layout_marginTop="15dp"
         android:textSize="20sp"
         android:textStyle="bold"
+        android:textColor="#929292"
+        android:background="#FFFFFF"
         />
 
+    <TextView
+        android:id="@+id/textViewSelectDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#844046"
+        android:layout_marginTop="20sp"
+        android:textSize="20sp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#B7B7B7"
+        android:textSize="18sp"
+        android:text="Selected Date" />
+
+
+    <TextView
+        android:id="@+id/textViewSelectDateInMinutes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#844046"
+        android:layout_marginTop="20sp"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#B7B7B7"
+        android:text="Age in minutes"
+        android:textSize="18sp" />
 </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
