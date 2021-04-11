@@ -6,5 +6,7 @@ Ovo je početni android projekat za projekat na predmetu Razvoj mobilnih aplikac
 |----------------|--------|-----------|
 | Evelin Piljug  | 18664  | PON 09:00 |
 
-&nbsp;
 
+Napomena
+Svi at prolaze prilikom pokretanja na virtuelnom uređaju. Na mom uređaju(9.0 verzija) pada test za upis
+jer ne može iz nekog razloga pronaći id-listaKvizova.
